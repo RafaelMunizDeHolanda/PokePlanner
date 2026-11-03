@@ -1,0 +1,2 @@
+# PokePlanner
+PokePlanner legal
